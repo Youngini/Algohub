@@ -40,7 +40,7 @@ ex) 비트 벡터, 배열, 연결 리스트, **트리 구조**<br><br>
    ## BOJ 문제 추천
    |순 번|문제 번호|문제 이름|풀 이|
    |---|---|---|---|
-   |01||[1717](https://www.acmicpc.net/problem/1717)|[집합의 표현](https://www.acmicpc.net/problem/1717)||
+   |01|[1717](https://www.acmicpc.net/problem/1717)|[집합의 표현]||(https://www.acmicpc.net/problem/1717)||
    |02|[1976](https://www.acmicpc.net/problem/1976)|[여행 가자](https://www.acmicpc.net/problem/1976)||
    |03|[16562](https://www.acmicpc.net/search#q=%EC%B9%9C%EA%B5%AC%EB%B9%84&c=Problems)|[친구비](https://www.acmicpc.net/search#q=%EC%B9%9C%EA%B5%AC%EB%B9%84&c=Problems)||
    |04|[18116](https://www.acmicpc.net/problem/18116)|[로봇 조립](https://www.acmicpc.net/problem/18116)||
