@@ -40,24 +40,24 @@ ex) 비트 벡터, 배열, 연결 리스트, **트리 구조**<br><br>
    ## BOJ 문제 추천
    |순 번|문제 번호|문제 이름|풀 이|
    |---|---|---|---|
-   |01|[1717](https://www.acmicpc.net/problem/1717)|[집합의 표현]||(https://www.acmicpc.net/problem/1717)||
+   |01|[1717](https://www.acmicpc.net/problem/1717)|[집합의 표현](https://www.acmicpc.net/problem/1717)||
    |02|[1976](https://www.acmicpc.net/problem/1976)|[여행 가자](https://www.acmicpc.net/problem/1976)||
-   |03|[16562](https://www.acmicpc.net/search#q=%EC%B9%9C%EA%B5%AC%EB%B9%84&c=Problems)|[친구비](https://www.acmicpc.net/search#q=%EC%B9%9C%EA%B5%AC%EB%B9%84&c=Problems)||
+   |03|[16562](https://www.acmicpc.net/problem/16562)|[친구비](https://www.acmicpc.net/problem/16562)||
    |04|[18116](https://www.acmicpc.net/problem/18116)|[로봇 조립](https://www.acmicpc.net/problem/18116)||
-   |05|[4195]()|[친구 네트워크]()||
-   |06|[10775]()|[공항]()||
-   |07|[17352]()|[여러분의 다리가 되어 드리겠습니다!]()||
-   |08|[7511]()|[소셜 네트웨킹 어플리케이션]()||
-   |09|[20040]()|[사이클 게임]()||
-   |10|[12893]()|[적의 적]()||
-   |11|[1043]()|[거짓말]()||
-   |12|[16168]()|[퍼레이드]()||
-   |13|[20955]()|[민서의 응급 수술]()||
-   |14|[15789]()|[CTP 왕국은 한솔 왕국을 이길 수 있을까?]()||
-   |15|[11085]()|[군사 이동]()||
-   |16|[17090]()|[미로 탈출하기]()||
-   |17|[16724]()|[피리 부는 사나이]()||
-   |18|[14595]()|[동방 프로젝트 (Large)]()||
-   |19|[3108]()|[로고]()||
-   |20|[17398]()|[통신망 분할]()||
+   |05|[4195](https://www.acmicpc.net/problem/4195)|[친구 네트워크](https://www.acmicpc.net/problem/4195)||
+   |06|[10775](https://www.acmicpc.net/problem/10775)|[공항](https://www.acmicpc.net/problem/10775)||
+   |07|[17352](https://www.acmicpc.net/problem/17352)|[여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352)||
+   |08|[7511](https://www.acmicpc.net/problem/7511)|[소셜 네트웨킹 어플리케이션](https://www.acmicpc.net/problem/7511)||
+   |09|[20040](https://www.acmicpc.net/problem/20040)|[사이클 게임](https://www.acmicpc.net/problem/20040)||
+   |10|[12893](https://www.acmicpc.net/problem/12893)|[적의 적](https://www.acmicpc.net/problem/12893)||
+   |11|[1043](https://www.acmicpc.net/problem/1043)|[거짓말](https://www.acmicpc.net/problem/1043)||
+   |12|[16168](https://www.acmicpc.net/problem/16168)|[퍼레이드](https://www.acmicpc.net/problem/16168)||
+   |13|[20955](https://www.acmicpc.net/problem/20995)|[민서의 응급 수술](https://www.acmicpc.net/problem/20995)||
+   |14|[15789](https://www.acmicpc.net/problem/15789)|[CTP 왕국은 한솔 왕국을 이길 수 있을까?](https://www.acmicpc.net/problem/15789)||
+   |15|[11085](https://www.acmicpc.net/problem/11085)|[군사 이동](https://www.acmicpc.net/problem/11085)||
+   |16|[17090](https://www.acmicpc.net/problem/17090)|[미로 탈출하기](https://www.acmicpc.net/problem/17090)||
+   |17|[16724](https://www.acmicpc.net/problem/16724)|[피리 부는 사나이](https://www.acmicpc.net/problem/16724)||
+   |18|[14595](https://www.acmicpc.net/problem/14595)|[동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595)||
+   |19|[3108](https://www.acmicpc.net/problem/3108)|[로고](https://www.acmicpc.net/problem/3108)||
+   |20|[17398](https://www.acmicpc.net/problem/17398)|[통신망 분할](https://www.acmicpc.net/problem/17398)||
    
