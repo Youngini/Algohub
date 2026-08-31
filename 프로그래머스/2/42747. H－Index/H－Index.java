@@ -1,12 +1,22 @@
 import java.util.*;
 class Solution {
     public int solution(int[] citations) {
-        int n = citations.length;
+        int answer = 0;
         Arrays.sort(citations);
-        
-        for(int i = 0; i < n; i++){
-            if(citations[i] >= n - i) return n - i;
+        int n = citations.length;
+        int i = 0;
+        int h = 0;
+        while(i < n){
+            if(citations[i] < h){
+                i++;
+                continue;
+            }
+            if(n - i >= h){
+                answer = Math.max(answer, h);
+                h++;
+            }
+            else break;
         }
-        return 0;
+        return answer;
     }
 }
